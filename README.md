@@ -9,6 +9,8 @@ Table of Contents
     3.File Descriptions
 
     4.Results
+    
+    5.Acknowledgements
 
     
 
@@ -32,3 +34,5 @@ survey_results_schema -- this filecontains with survey schema, i.e., the questio
 4.Results
 
 From the above analysis we conclude: 1.United States has by far the biggest percentage of entries in this survey. 2.USA always has more people in every category using stackoverflow especially professional developers. 3.The 66% of the people have good comments for stackoverflow.(although this perc may be greater if we did not have nuulls in evaluation.)
+Blog Post:https://medium.com/@lkarahountri777/stack-overflow-survey-of-software-developers-from-2017-analysis-with-python-e9abc71a12f0
+5.Acknowledgements:
